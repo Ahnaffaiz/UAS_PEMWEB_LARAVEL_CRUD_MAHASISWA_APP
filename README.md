@@ -60,3 +60,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # UAS_PEMWEB_LARAVEL_CRUD_MAHASISWA_APP
+
+AFTER CLONE | DOWNLOAD LARAVEL PROJECT
+1. run composer install to generate depedencies in vendor folder
+2. change .env.example to .env
+3. run php artisan key:generate
+4. configure .env (database etc)
